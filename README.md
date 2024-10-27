@@ -5,16 +5,10 @@
 
 
 
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshaan04&label=Profile%20views&color=0e75b6&style=flat" alt="roshaan04" /> </p>
 
 - 📫 How to reach me **roshaanjadoon@gmail.com**
+- 🔗 https://www.linkedin.com/in/roshaan-jadoon-564795335/ 
 - 🌷 She/Her
 - ⚡ Fun fact **I am a painter.**
 
