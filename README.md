@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Roshaan Jadoon</h1>
-<h3 align="center">👩‍🎓 A dedicated Computer Science Engineer from Pakistan</h3>
+<h3 align="center">👩‍🎓 A dedicated Computer Science student from Pakistan</h3>
 <h4 align="center">🌱 I am passionate about acquiring knowledge and seeking new experiences.</h4>
 
 
